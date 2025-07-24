@@ -1,7 +1,7 @@
 # AI-For-Everyone
 Author: Andrew Ng
 
-# Week 1 - What is AI?
+# AI
 
 # Types of AI
 # 1. ANI (Artificial Narrow Intelligence): 
@@ -19,7 +19,7 @@ Author: Andrew Ng
 **Example:** Does not exist yet. It's more science fiction for now.
 **Analogy:** A robot brain that can think, learn, and reason like a human (or better)—but we’re not there yet.
 
-# What is Machine Learning?
+# Machine Learning?
 **Machine Learning (ML)** : is a tool used in AI that helps computers learn from data to make decisions or predictions.
 
 # What is Supervised Learning - The most common type (Input to mapping A to B)
@@ -65,38 +65,9 @@ Because of 2 main things:
   - Input (A) is what you give the AI.
   - Output (B) is the correct answer you want the AI to learn.
 
-# Examples of Data in Real Life AI Projects
-
-| Example            | Input (A)        | Output (B)         | Use                        |
-| ------------------ | ---------------- | ------------------ | -------------------------- |
-| 🏠 House Pricing   | Size, bedrooms   | Price              | Help price houses          |
-| 📸 Cat Detector    | Images           | "Cat" or "Not Cat" | Auto-tagging photos        |
-| 🛒 E-commerce      | User info, price | Buy or not         | Better product suggestions |
-| 🏭 Factory Machine | Temp, pressure   | Fail or not        | Predict breakdowns         |
 
 
-# Ways to Collect Data
 
-# 1. Manual Labeling
-- Humans label each data point (e.g. "This is a cat", "This is not a cat").
-- Time-consuming but accurate.
-
-# 2. User Behavior
-- Data is collected by watching what users do.
-- Example: If users click or buy something on a website.
-
-# 3. Machine Observation
-- Machines (like factory equipment) are monitored.
-- Example: AI learns when a machine is likely to fail.
-
-# 4. Download from the Web
-- There are many free datasets online (e.g. images, speech, medical).
-- Be careful of licenses and copyright.
-
-# 5. Partner with Other Organizations
-- You can get data from other companies or teams who already collected it.
-
-# Common Mistakes with Data (Things to Avoid)
 
 
 
