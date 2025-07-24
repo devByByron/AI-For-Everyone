@@ -1,6 +1,11 @@
 # AI-For-Everyone
 Author: Andrew Ng
 
+Course Overview
+This is a non-technical course designed to help people understand and navigate the rise of AI in personal and professional settings.
+
+The course cuts through the hype around AI and provides a realistic view of what AI is and how it can be used.
+
 # AI
 
 What is AI
