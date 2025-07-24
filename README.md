@@ -1,5 +1,5 @@
 # AI-For-Everyone
-# Author: Andrew Ng
+Author: Andrew Ng
 
 # Week 1 - What is AI?
 
