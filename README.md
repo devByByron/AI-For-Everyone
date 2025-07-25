@@ -120,10 +120,13 @@ The course consists of **4 Weeks**:
 
 **Step 4: AI Strategy and Communication** (Leveraging AI to give an advantage)
 AI Strategy Development
-Once a company has real experience with AI projects, it's time to create a proper AI strategy. Strategies based only on theory often don’t work well — hands-on learning helps shape plans that actually fit the business.
+Once a company has real experience with AI projects, it's time to create a proper AI strategy. Strategies based only on theory often don’t work well — hands-on learning helps shape plans that actually fit the business. Design strategy is aligned with the virtuaous cycle of AI.
 
-Virtuous Cycle of AI**
+Virtuous Cycle of AI
 The more data and users a company has, the better its AI can get. This makes the product stronger over time and harder for new competitors to catch up. For example, Blue River used AI in farming to keep improving their tools and stay ahead.
+
+<img width="330" height="174" alt="image" src="https://github.com/user-attachments/assets/69b9cfe1-6d72-4f67-8701-68c6c1bf51c5" />
+
 
 **Step 5: Internal and External Communications**
 Clear communication is key. Companies need to explain AI changes to investors, regulators, and employees. Internally, sharing success stories helps reduce fear and attract talented people to work on AI.
