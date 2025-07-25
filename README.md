@@ -75,11 +75,22 @@ The course consists of **4 Weeks**:
 **Example:** Does not exist yet. It's more science fiction for now.
 **Analogy:** A robot brain that can think, learn, and reason like a human (or better)—but we’re not there yet.
 
+**How to Selection an AI Project**:
+
+**Identifying Project Opportunities:** Start by looking at where AI can solve real business problems. Focus on small, repetitive tasks, not full jobs. Work with both AI and business experts to find ideas that are useful and realistic.
+
+**Principles for Brainstorming**
+- When brainstorming AI projects, keep it simple.
+- Look for specific tasks to automate, not big, complex jobs.
+- Think about where the business is struggling or what could be done better. These pain points often make great starting points for AI.
+
+**Data Considerations**: You don’t always need lots of data; small datasets can work. Ask AI experts what data you need to start and what else might be required.
+
 
 **What is data in AI**: Data is the information you use to train an AI system. There are two types of data, unstructured which refers to images,photos and structured which refers to data in a spreadsheet(dataset).
 
 # Machine Learning
-**Machine Learning (ML)**  Machine Learning is a way for computers to learn from examples, kind of like how people learn. Instead of being told exactly what to do step-by-step, the computer looks at a bunch of data and figures out how to make decisions on its own.
+**Machine Learning (ML)**: is a way for computers to learn from examples, kind of like how people learn. Instead of being told exactly what to do step-by-step, the computer looks at a bunch of data and figures out how to make decisions on its own.
 
 Types of Machine Learning:
 
@@ -119,14 +130,21 @@ Example (Self-Driving Car):
 
 **Data Science:** This is about using data to find useful information — like patterns, trends, or answers to questions — so that businesses can make smarter decisions.
 
+**Workflow of Data Science Project**
 
+**1. Collect Data:**
+This is the first step, where you gather useful information — like:
+- How many people visit a website
+- Where they’re from
+- What they click on
 
+The goal is to understand how users behave so you can learn what’s working and what’s not.
 
-
-
-
-
-
+**2. Analyze Data:**
+Once you have the data, the next step is to study it carefully. You look for patterns, trends, or problems. For example:
+- Are high shipping costs causing fewer sales?
+- Do people shop more during holidays?
+- This helps businesses figure out what’s helping or hurting their performance — and what they can improve.
 
 
 
