@@ -41,9 +41,10 @@ The course consists of **4 Weeks**:
 
 
 ### Week 3: Working with an AI Team
-- How to work with data scientists and ML engineers
-- Understanding workflow and communication
-- Evaluating AI project success
+- Case studies of complex AI products
+- Roles in AI team
+- AI transformation playbook
+- Taking your first step to build a project for your AI company
 
 ### Week 4: AI and Society
 - Job displacement and automation
@@ -79,7 +80,25 @@ The course consists of **4 Weeks**:
 
 **Technical Dilligence** - Is when you analyse if the project is achievable. Finding out how much data is needed, how long it will take and how many people to build the system are important factors when analysing technical dilligence. 
 
- **Business Dilligence** - Is
+**Business Dilligence** - Is when you analyse if the project is valuable to the business.
+**Ethical Dilligence** - Does the AI project have a positive impact on society.
+
+**Process Steps of Building AI Products** (Each step uses a different A to B mapping)
+
+1. **Trigger Word Detection** – The system listens for a wake word like “Hey device” using machine learning.
+
+2. **Speech Recognition** – After the wake word, it turns the spoken command into text.
+
+3. **Intent Recognition** – It figures out what the user wants (e.g., play music, tell a joke).
+
+4. **Command Execution** – The device carries out the action based on the user’s request.
+
+
+
+**Roles of an AI Team**
+ 
+
+ 
 
 **What is data in AI**: Data is the information you use to train an AI system. There are two types of data, unstructured which refers to images,photos and structured which refers to data in a spreadsheet(dataset).
 
