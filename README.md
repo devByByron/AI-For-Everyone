@@ -82,7 +82,8 @@ The course consists of **4 Weeks**:
 **Machine Learning (ML)**  Machine Learning is a way for computers to learn from examples, kind of like how people learn. Instead of being told exactly what to do step-by-step, the computer looks at a bunch of data and figures out how to make decisions on its own.
 
 Types of Machine Learning:
-**1. Supervised Learning** : is a type of machine learning where a computer learns from examples that already have the correct answers. The computer learns to map A(Input) to B(Output) using lots of examples.
+
+**1. Supervised Learning**: is a type of machine learning where a computer learns from examples that already have the correct answers. The computer learns to map A(Input) to B(Output) using lots of examples.
 **Example:** Think of it like teaching a student with flashcards. Each flashcard has a question (input) and a correct answer (output). Over time, the student learns to match the questions to the right answers.
 
 **2. Deep Learning** : Deep learning is a type of machine learning that can understand really complex patterns in data — kind of like how our brains learn by seeing examples.
