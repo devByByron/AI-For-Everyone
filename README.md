@@ -1,16 +1,65 @@
-# AI-For-Everyone
-Author: Andrew Ng
+# 🤖 AI For Everyone – Andrew Ng | deeplearning.ai
 
-Course Overview
-This is a non-technical course designed to help people understand and navigate the rise of AI in personal and professional settings.
 
-The course cuts through the hype around AI and provides a realistic view of what AI is and how it can be used.
+## 📚 Course Overview
 
-# AI
+"AI For Everyone" is a non-technical course that introduces Artificial Intelligence concepts, its business applications, and how to navigate the changes AI brings to society and the workplace.
 
-What is AI
+- 💡 **Instructor:** Andrew Ng  
+- 🎓 **Platform:** [Coursera](https://www.coursera.org/learn/ai-for-everyone)  
+- 🏢 **Offered by:** deeplearning.ai  
+- 📅 **Status:** In Progress 
 
-Types of AI
+---
+
+## 🎯 Course Goals
+
+By the end of this course, you will understand:
+
+- ✅ What AI can and cannot do
+- ✅ How to think about AI from a non-technical perspective
+- ✅ How to spot opportunities to apply AI in your organization
+- ✅ How to build AI-powered projects
+- ✅ Societal and ethical considerations of AI
+
+---
+
+## 🗂️ Course Structure
+
+The course consists of **4 Weeks**:
+
+### Week 1: What is AI?
+- Introduction to Artificial Intelligence
+- Narrow vs General AI
+- Terminology: Machine Learning, Neural Networks, etc.
+- Misconceptions and myths
+
+### Week 2: Building AI Projects
+- How to frame AI problems
+- AI project lifecycle
+- Data and training processes
+- AI teams: roles and collaboration
+
+### Week 3: Working with an AI Team
+- How to work with data scientists and ML engineers
+- Understanding workflow and communication
+- Evaluating AI project success
+
+### Week 4: AI and Society
+- Job displacement and automation
+- AI ethics and bias
+- The future of AI: opportunities and risks
+- Your role in an AI-powered world
+
+---
+
+## ✍️ Key Learnings & Notes
+
+**AI**
+What is AI?: AI is when machines are designed to do tasks that usually need human intelligence — like learning, recognizing patterns, solving problems, or making decisions.
+
+Types of AI:
+
 1. ANI (Artificial Narrow Intelligence): 
 **What it is:** AI that can do one specific thing really well (one trick pony's).  
 **Example:** A smart speaker that listens to voice commands, or a self-driving car that only drives  
@@ -26,51 +75,14 @@ Types of AI
 **Example:** Does not exist yet. It's more science fiction for now.
 **Analogy:** A robot brain that can think, learn, and reason like a human (or better)—but we’re not there yet.
 
-# Machine Learning?
-**Machine Learning (ML)** : is a tool used in AI that helps computers learn from data to make decisions or predictions.
-
-What is Supervised Learning - The most common type (Input to mapping A to B)
-
-**Supervised learning** is a type of machine learning where a computer learns from examples that already have the correct answers.
-
-**Example:** Think of it like teaching a student with flashcards. Each flashcard has a question (input) and a correct answer (output). Over time, the student learns to match the questions to the right answers.
-
-- A = Input, B = Output
-- The computer learns to map A to B using lots of examples.
-
-Everyday Examples of Supervised Learning:
-1. Speech Recognition
-- **Input**: Audio
-- **Output**: Text
-  
-2. Translation
-- Input: English
-- Output: Spanish or Chinese, etc.
-
-Generative AI (like ChatGPT)
-- Also uses supervised learning.
-- The model learns to predict the next word in a sentence.
-- Trained on billions of words from the internet.
-- These models are called Large Language Models (LLMs).
-
-Why Is Machine Learning So Powerful Now?
-Because of 2 main things:
-1. More Data
-- We now store huge amounts of digital data (thanks to the internet and computers).
-- More data = Better learning
-
-2. Bigger Models (Neural Networks)
-- New AI models (called neural networks or deep learning) get better and better as you give them more data.
-
-- Large models + big data = Very powerful and accurate AI
 
 
-What is data in AI
-- Data is the information you use to train an AI system.
-  
-- Think of it like a giant spreadsheet (a dataset) where:
-  - Input (A) is what you give the AI.
-  - Output (B) is the correct answer you want the AI to learn.
+
+**Machine Learning**
+
+
+
+**Data Science**
 
 
 
@@ -87,51 +99,17 @@ What is data in AI
 
 
 
+## 📎 Resources & Links
 
+- [Course Link (Coursera)](https://www.coursera.org/learn/ai-for-everyone)
+- [deeplearning.ai Website](https://www.deeplearning.ai/)
 
+---
 
+## 📌 License
 
+This is a personal educational project.  
+All course materials belong to **Coursera** and **deeplearning.ai**. This repo only contains personal notes and is not a substitute for taking the actual course.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Building AI Projects 
-What is Machine Learning
-Machine learning is a way for computers to learn from data.
-It helps turn input (A) into output (B) — like turning audio into text or images into labels.
-
-Key Steps in a Machine Learning Project
-
-1. Collect Data
-- Gather examples the AI can learn from.
-  
-Example (Speech Recognition):
-- Record people saying "Alexa" and other random words.
-
-Example (Self-Driving Car):
-- Take pictures from a car and label where other cars are in those pictures.
-
-2. Train the Model
-- Use the collected data to teach the computer to recognize patterns.
-- This is where the AI learns the A-to-B mapping (e.g., audio → word, image → car location).
-- The model won’t be perfect at first — you have to test and improve it many times. This is called iteration.
-
-3. Deploy the Model
-- Put the trained AI model into the real world (e.g., in a smart speaker or self-driving car).
-
-- After deployment, new data might show where the AI makes mistakes.
-  - **Example**, if it was trained on American voices, it might not understand British accents well.
-    
-- You can use this new data to update and improve the model over time.
-
+---
 
