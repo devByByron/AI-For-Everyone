@@ -142,7 +142,30 @@ Clear communication is key. Companies need to explain AI changes to investors, r
 **Team Building**: You don’t need superstar AI talent to begin. Many skilled engineers can do the job. What matters most is building your team, starting small, and learning as you go.
  
 
-**What is Data in AI**: Data is the information you use to train an AI system. There are two types of data, unstructured which refers to images,photos and structured which refers to data in a spreadsheet(dataset).
+**What is Data in AI**: Data is the information you use to train an AI system. There are two types of data, unstructured which refers to images,text, audio and structured which refers to data in a spreadsheet(dataset).
+
+**Understanding AI Bias:** 
+
+**What Is AI Bias?**
+AI can pick up unfair stereotypes from the data it learns from—especially internet text. For example, it might wrongly link “man” with “programmer” and “woman” with “homemaker.”
+
+**How Bias Happens**
+AI turns words into numbers based on how often they appear together. These numbers can create biased relationships if the original data is biased.
+
+**How to Reduce Bias**
+We can fix bias by adjusting those numbers or training AI on more inclusive data. Regular checks and transparency also help spot and fix bias.
+
+**Why Diversity Matters**
+Having a diverse team helps catch unfair patterns early. Ongoing effort is needed to build AI that makes fair and balanced decisions.
+
+**Adversarial Attacks on AI**
+**What Are Adversarial Attacks?:**: AI can be tricked by tiny changes to input data—changes that people might not even notice. For example, a small tweak to an image can make the AI mislabel it completely.
+
+**Real-Life Examples**: Researchers have shown that wearing certain glasses or adding stickers to road signs can fool AI, which is dangerous for things like self-driving cars.
+
+**Defending Against Attacks**: Experts are working on ways to protect AI from these tricks, but stronger defenses can make systems slower. It’s an ongoing battle between attackers and defenders—like spam filters constantly improving.
+
+**Big Picture**: Not all AI is equally at risk, but these attacks show the need to build smarter and safer AI systems. More on this will be covered in the next video.
 
 # Machine Learning
 **Machine Learning (ML)**: is a way for computers to learn from examples, kind of like how people learn. Instead of being told exactly what to do step-by-step, the computer looks at a bunch of data and figures out how to make decisions on its own.
