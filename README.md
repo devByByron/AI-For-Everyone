@@ -55,7 +55,7 @@ The course consists of **4 Weeks**:
 
 ## ✍️ Key Learnings & Notes
 
-**AI**
+# AI  
 What is AI?: AI is when machines are designed to do tasks that usually need human intelligence — like learning, recognizing patterns, solving problems, or making decisions.
 
 Types of AI:
