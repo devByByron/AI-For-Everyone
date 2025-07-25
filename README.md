@@ -130,6 +130,16 @@ The more data and users a company has, the better its AI can get. This makes the
 
 **Step 5: Internal and External Communications**
 Clear communication is key. Companies need to explain AI changes to investors, regulators, and employees. Internally, sharing success stories helps reduce fear and attract talented people to work on AI.
+
+**AI Pitfalls:**
+
+**AI Limitations** : AI isn't a magic fix for everything. Be realistic about what it can and can't do. Choose projects carefully by checking both their technical possibility and business value.
+
+**Team Collaboration**: Don’t rely only on AI experts. Pair them with business professionals. Working together helps find the most useful and practical projects.
+
+**Project Development and Planning**: AI projects usually take a few tries to get right. They need flexible plans, with clear goals and timelines designed specifically for how AI works.
+
+**Team Building**: You don’t need superstar AI talent to begin. Many skilled engineers can do the job. What matters most is building your team, starting small, and learning as you go.
  
 
 **What is Data in AI**: Data is the information you use to train an AI system. There are two types of data, unstructured which refers to images,photos and structured which refers to data in a spreadsheet(dataset).
