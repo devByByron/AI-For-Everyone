@@ -93,14 +93,43 @@ The course consists of **4 Weeks**:
 
 4. **Command Execution** – The device carries out the action based on the user’s request.
 
-
-
 **Roles of an AI Team**
  
+**Software Engineers:** Build and maintain the software that runs AI systems, like smart devices or self-driving cars.
 
+**Machine Learning Engineers:** Create and train AI models, making sure they work well with accurate results.
+
+**Machine Learning Researchers:** Explore new AI techniques, often through deep research and experiments.
+
+**Data Scientists:** Study data to find insights and help guide business decisions, sometimes doing tasks similar to ML engineers.
+
+**Data Engineers:** Handle large amounts of data, making sure it’s stored properly and easy to use.
+
+**AI Product Managers:** Decide which AI products to build and make sure they’re valuable and realistic to create.
+
+ **AI Transformation Playbook**
+
+**Step 1: Start/Execute with Pilot Projects** (Build momentum by building project that has the highest chance of success.)
+- Begin with small, easy-to-win AI projects that can show results in 6–12 months. This helps build confidence and momentum.
+
+**Step 2: Build an In-House AI Team**
+- Set up a central AI team to support different departments and create shared tools and systems across the company.
+
+**Step 3: Provide Company-Wide AI Training**
+- Train everyone—not just engineers—on how AI affects their work. Executives need a few hours; engineers need deeper training to build real skills.
+
+**Step 4: AI Strategy and Communication** (Leveraging AI to give an advantage)
+AI Strategy Development
+Once a company has real experience with AI projects, it's time to create a proper AI strategy. Strategies based only on theory often don’t work well — hands-on learning helps shape plans that actually fit the business.
+
+Virtuous Cycle of AI**
+The more data and users a company has, the better its AI can get. This makes the product stronger over time and harder for new competitors to catch up. For example, Blue River used AI in farming to keep improving their tools and stay ahead.
+
+**Step 5: Internal and External Communications**
+Clear communication is key. Companies need to explain AI changes to investors, regulators, and employees. Internally, sharing success stories helps reduce fear and attract talented people to work on AI.
  
 
-**What is data in AI**: Data is the information you use to train an AI system. There are two types of data, unstructured which refers to images,photos and structured which refers to data in a spreadsheet(dataset).
+**What is Data in AI**: Data is the information you use to train an AI system. There are two types of data, unstructured which refers to images,photos and structured which refers to data in a spreadsheet(dataset).
 
 # Machine Learning
 **Machine Learning (ML)**: is a way for computers to learn from examples, kind of like how people learn. Instead of being told exactly what to do step-by-step, the computer looks at a bunch of data and figures out how to make decisions on its own.
@@ -120,7 +149,6 @@ They’re computer models inspired by the human brain. Instead of actual brain c
 - It passes that info through layers of “neurons”
 - It produces an output (like “this is a cat” or “the price will go up”)
 
-Machine Learning Limitations:
 
 **Workflow of Machine Learning Project:** Involves collecting, training and deploying data.
 1. Collect Data
