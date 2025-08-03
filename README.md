@@ -172,15 +172,36 @@ Having a diverse team helps catch unfair patterns early. Ongoing effort is neede
 
 **Big Picture**: Not all AI is equally at risk, but these attacks show the need to build smarter and safer AI systems. More on this will be covered in the next video.
 
+**Adverse Uses of AI**
+
+- AI can create deep fakes(fake video evidence), which are videos that falsely depict individuals saying or doing things they never did, posing risks to personal reputation.
+- The rapid spread of misinformation through social media raises concerns about the harm deep fakes can cause to individuals.
+
+**Impact on Democracy and Privacy**
+
+- While some governments use AI to improve citizens' lives, oppressive regimes may exploit it for surveillance and control, raising ethical concerns.
+- The generation of fake comments by AI can distort public discourse, necessitating effective detection methods to maintain trust.
+
+**Ongoing Challenges and Optimism**
+
+- The battle against adverse uses of AI, such as spam and fraud, mirrors the ongoing efforts to develop anti-spam and anti-fraud technologies.
+- Despite the challenges, there is optimism that the resources dedicated to positive uses of AI will ultimately prevail, benefiting society as a whole.
+
+
+
 # Machine Learning
 **Machine Learning (ML)**: is a way for computers to learn from examples, kind of like how people learn. Instead of being told exactly what to do step-by-step, the computer looks at a bunch of data and figures out how to make decisions on its own.
 
 Types of Machine Learning:
 
-**1. Supervised Learning**: is a type of machine learning where a computer learns from examples that already have the correct answers. The computer learns to map A(Input) to B(Output) using lots of examples.
+**1. Supervised Learning**: is a type of machine learning where a computer learns from examples that already have the correct answers. The computer learns to map A(Input) to B(Output) using lots of examples. Uses labeled data (data with known answers) to predict or classify new data.
 **Example:** Think of it like teaching a student with flashcards. Each flashcard has a question (input) and a correct answer (output). Over time, the student learns to match the questions to the right answers.
 
-**2. Deep Learning** : Deep learning is a type of machine learning that can understand really complex patterns in data — kind of like how our brains learn by seeing examples.
+**2. Unsupervised Learning** : Works with unlabeled data to find patterns or groupings (e.g., clustering similar items).
+**Reinforcement Learning**: Learns by trial and error, getting rewards for good actions and penalties for bad ones.
+
+**Deep Learning** 
+Deep learning is a type of machine learning that can understand really complex patterns in data — kind of like how our brains learn by seeing examples.
 
 **Neural networks** are the main tool used in deep learning.
 They’re computer models inspired by the human brain. Instead of actual brain cells, they use "nodes" or "neurons" that are connected in layers.
@@ -227,6 +248,11 @@ Once you have the data, the next step is to study it carefully. You look for pat
 - Are high shipping costs causing fewer sales?
 - Do people shop more during holidays?
 - This helps businesses figure out what’s helping or hurting their performance — and what they can improve.
+  
+**3. Hypotheses and Actions**
+
+- **Formulating Hypotheses**: Develop hypotheses based on data insights, like adjusting shipping costs or advertising strategies during specific times.
+- **Implementing Changes**: Deploy suggested actions and monitor new data to evaluate the effectiveness of changes made.
 
 
 
