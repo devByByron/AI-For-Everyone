@@ -81,6 +81,7 @@ The course consists of **4 Weeks**:
 **Technical Dilligence** - Is when you analyse if the project is achievable. Finding out how much data is needed, how long it will take and how many people to build the system are important factors when analysing technical dilligence. 
 
 **Business Dilligence** - Is when you analyse if the project is valuable to the business.
+
 **Ethical Dilligence** - Does the AI project have a positive impact on society.
 
 **Process Steps of Building AI Products** (Each step uses a different A to B mapping)
