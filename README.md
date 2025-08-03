@@ -132,6 +132,10 @@ The more data and users a company has, the better its AI can get. This makes the
 **Step 5: Internal and External Communications**
 Clear communication is key. Companies need to explain AI changes to investors, regulators, and employees. Internally, sharing success stories helps reduce fear and attract talented people to work on AI.
 
+**What is the Goldilocks Rule of AI?**
+
+- The “Goldilocks Rule of AI” emphasizes the importance of adopting a balanced and realistic perspective, avoiding extremes of optimism or pessimism. (One should not be too optimistic or too pessimistic about AI technology)
+
 **AI Pitfalls:**
 
 **AI Limitations** : AI isn't a magic fix for everything. Be realistic about what it can and can't do. Choose projects carefully by checking both their technical possibility and business value.
