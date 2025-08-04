@@ -76,7 +76,7 @@ The course consists of **4 Weeks**:
 **Example:** Does not exist yet. It's more science fiction for now.
 **Analogy:** A robot brain that can think, learn, and reason like a human (or better)—but we’re not there yet.
 
-**How to Selection an AI Project**: Before commiting to  a AI project you need to conduct a due dilligence(analysing whether the project is worth the effort) on the project. You want to check if the project is feasible as well as valuable for the business. The two sets usually used are - What AI can do (Technical Dilligence Process) and Value it add to the business(Business Dilligence Process)
+**How to Select an AI Project**: Before commiting to  a AI project you need to conduct a due dilligence(analysing whether the project is worth the effort) on the project. You want to check if the project is feasible as well as valuable for the business. The two sets usually used are - What AI can do (Technical Dilligence Process) and Value it add to the business(Business Dilligence Process)
 
 **Technical Dilligence** - Is when you analyse if the project is achievable. Finding out how much data is needed, how long it will take and how many people to build the system are important factors when analysing technical dilligence. 
 
