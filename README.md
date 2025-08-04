@@ -198,7 +198,8 @@ Types of Machine Learning:
 **Example:** Think of it like teaching a student with flashcards. Each flashcard has a question (input) and a correct answer (output). Over time, the student learns to match the questions to the right answers.
 
 **2. Unsupervised Learning** : Works with unlabeled data to find patterns or groupings (e.g., clustering similar items).
-**Reinforcement Learning**: Learns by trial and error, getting rewards for good actions and penalties for bad ones.
+
+**3. Reinforcement Learning**: Learns by trial and error, getting rewards for good actions and penalties for bad ones.
 
 **Deep Learning** 
 Deep learning is a type of machine learning that can understand really complex patterns in data — kind of like how our brains learn by seeing examples.
